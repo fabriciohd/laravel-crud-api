@@ -1,7 +1,5 @@
 # Lista de Tarefas
-
-## Uma api simples com um crud em laravel
-
-<h4 align="center"> 
-	🚀  Finalizado  🚀
-</h4>
+```
+API de lista de tarefas com Laravel!
+Tecnologia: PHP/Laravel, MySQL
+```
